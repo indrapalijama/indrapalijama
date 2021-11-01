@@ -24,12 +24,14 @@
   
 <br />
 <br />
- 
+
 ### Now Playing :
-
-[![Spotify](https://fulk-now-playing.vercel.app/now-playing)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<a href="https://fulk-now-playing.vercel.app/now-playing?open">
+    <img src="https://fulk-now-playing.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
 <br />
 <br />
- ---
 
+<!-- [![Spotify](https://fulk-now-playing.vercel.app/now-playing)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9) -->
+---
 ![](https://github-readme-stats.vercel.app/api?username=indrapalijama&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) 
