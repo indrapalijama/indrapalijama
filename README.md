@@ -26,8 +26,8 @@
 <br />
 
 ### Now Playing :
-<a href="https://fulk-now-playing.vercel.app/now-playing?open">
-    <img src="https://fulk-now-playing.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+<a href="https://fulk-spotify.vercel.app/now-playing?open">
+    <img src="https://fulk-spotify.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 <br />
 <br />
